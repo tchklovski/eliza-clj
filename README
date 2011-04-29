@@ -1,10 +1,12 @@
-# clj_eliza
+# eliza_clj
 
-FIXME: write description
+The homage to the original ELIZA http://en.wikipedia.org/wiki/ELIZA , 50+ years later.
+Written in clojure, a modern dialect of LISP, also 50+ years later.
 
 ## Usage
 
-FIXME: write
+Launch its compojure web server somewhere. i hear google app engine works.
+a modern twist is that the response rules are crowdsourced.
 
 ## License
 

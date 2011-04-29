@@ -5,3 +5,5 @@ pom.xml
 .lein-deps-sum
 *~
 *#
+*.iml
+/.idea
